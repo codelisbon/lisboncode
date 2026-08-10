@@ -1,0 +1,18 @@
+{
+  "name": "Lisbon Code",
+  "short_name": "Lisbon Code",
+  "description": "Hack Club em Lisboa para teens que querem construir projetos com código.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafc",
+  "theme_color": "#ec3750",
+  "lang": "pt-PT",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
